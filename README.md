@@ -1,2 +1,2 @@
-# Eilish-Monroe_Motor
- Rotating the Eilish-Monroe artwork
+This repo is for the article published in 
+https://caramellaapp.com/home/QozsuD-e3/dmj-alhndsh-ma-alfn
